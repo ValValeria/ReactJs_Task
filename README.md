@@ -7,5 +7,4 @@ I have developed this app, using React Js and Material Ui.
 * `npm install`
 * `npm run start`
 
-You can view the app on the url https://valvaleria.github.io/ReactJs_Task/
 
